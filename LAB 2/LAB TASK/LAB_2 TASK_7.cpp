@@ -1,7 +1,8 @@
-// Name: M.younas Khan
-// Department: Electrical Engineering (POWER)
-// Registration No: BF25NWELE0741
-// Section: A
+// Name: ABDUL AHAD
+// Department: Electrical Engineering (COMM)
+// Registration No: BF25NWELE00664
+// Section: B
+
 
 
 
@@ -19,3 +20,4 @@ int main()
 
     return 0; 
 }
+
